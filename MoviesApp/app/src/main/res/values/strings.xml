@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_settings">Settings</string>
+    <string name="movie_overview">Overview</string>
+    <string name="movie_reviews">Reviews</string>
+    <string name="Trailers">Trailers</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+    <!-- lable Strings -->
+    <string name="pref_select_movie_label">Select Your Movies</string>
+    <string name="pref_Movies_label_Favorites">Favorites</string>
+    <string name="pref_Movies_label_TopRated">Top Rated</string>
+    <string name="pref_Movies_label_popular">Most Popular</string>
+
+    <string name="pref_select_movie_key">MovieKey</string>
+
+    <!-- values for strings-->
+    <string name="pref_Movies_Favorites" translatable="false">favorite</string>
+    <string name="pref_Movies_TopRated" translatable="false">top_rated</string>
+    <string name="pref_Movies_popular" translatable="false">popular</string>
+
+</resources>

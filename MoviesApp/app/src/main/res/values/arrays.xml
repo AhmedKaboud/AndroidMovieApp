@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_select_list_titles">
+        <item>@string/pref_Movies_label_Favorites</item>
+        <item>@string/pref_Movies_label_TopRated</item>
+        <item>@string/pref_Movies_label_popular</item>
+    </string-array>
+
+    <string-array name="pref_select_list_values">
+        <item>@string/pref_Movies_Favorites</item>
+        <item>@string/pref_Movies_TopRated</item>
+        <item>@string/pref_Movies_popular</item>
+    </string-array>
+
+</resources>
